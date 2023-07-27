@@ -1,0 +1,13 @@
+.mat-toolbar {
+    background: rgb(8, 8, 8);
+    color: #fff;
+    
+
+}
+
+.icon {
+    font-size: 30px;
+}
+.example-spacer{
+    flex: 1 1 auto;
+}
